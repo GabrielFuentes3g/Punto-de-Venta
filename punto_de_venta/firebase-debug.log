@@ -1,0 +1,21 @@
+[debug] [2025-05-31T02:57:37.422Z] ----------------------------------------------------------------------
+[debug] [2025-05-31T02:57:37.428Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\angel\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-05-31T02:57:37.430Z] CLI Version:   14.5.1
+[debug] [2025-05-31T02:57:37.430Z] Platform:      win32
+[debug] [2025-05-31T02:57:37.430Z] Node Version:  v22.16.0
+[debug] [2025-05-31T02:57:37.431Z] Time:          Fri May 30 2025 20:57:37 GMT-0600 (Central Standard Time)
+[debug] [2025-05-31T02:57:37.431Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-31T02:57:37.454Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-31T02:57:37.455Z] > authorizing via signed-in user (gabrielfuentes3g@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\angel\Desktop\Proyecto\Punto-de-Venta\punto_de_venta
+
